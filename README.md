@@ -25,10 +25,14 @@ Preprocess the images as needed. You can resize images and normalize them for yo
 
 Implement your training script using a framework like TensorFlow or PyTorch to train your model on the loaded dataset.
 
-## Contributing
+## Contributors
 
-If you'd like to contribute to this project, please fork the repository and submit a pull request. Any contributions are welcome!
+We would like to acknowledge the following team members for their contributions to this project:
 
+- **Amrutha Kanakatte Ravishankar** - [[GitHub Profile]((https://github.com/harithsya24)]
+- **Nisha Thaluru Gopi** - [GitHub Profile](https://github.com/nishathalurugopi)
+- **Sneha Venkatesh** - [GitHub Profile](https://github.com/sne-ha-v)
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
