@@ -29,7 +29,7 @@ Implement your training script using a framework like TensorFlow or PyTorch to t
 
 We would like to acknowledge the following team members for their contributions to this project:
 
-- **Amrutha Kanakatte Ravishankar** - [[GitHub Profile]((https://github.com/harithsya24)]
+- **Amrutha Kanakatte Ravishankar** - [GitHub Profile](https://github.com/harithsya24)
 - **Nisha Thaluru Gopi** - [GitHub Profile](https://github.com/nishathalurugopi)
 - **Sneha Venkatesh** - [GitHub Profile](https://github.com/sne-ha-v)
   
